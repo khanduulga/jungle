@@ -4,9 +4,9 @@ A mini e-commerce application built with Rails 4.2 (LHL)
 
 ##
 ## Screenshots
-!["Products"]()
-!["My Cart"]()
-!["Login"]()
+!["Products"](https://github.com/khanduulga/jungle/blob/master/docs/products.png)
+!["My Cart"](https://github.com/khanduulga/jungle/blob/master/docs/cart.png)
+!["Login"](https://github.com/khanduulga/jungle/blob/master/docs/login.png)
 
 ## Setup
 
